@@ -1,0 +1,10 @@
+com\programarch\productservice\ProductserviceApplication.class
+com\programarch\productservice\model\Product$ProductBuilder.class
+com\programarch\productservice\model\Product.class
+com\programarch\productservice\controller\ProductController.class
+com\programarch\productservice\dto\ProductRequest.class
+com\programarch\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\programarch\productservice\dto\ProductResponse.class
+com\programarch\productservice\repository\ProductRepository.class
+com\programarch\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\programarch\productservice\service\ProductService.class

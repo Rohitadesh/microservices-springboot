@@ -1,0 +1,8 @@
+com\programarch\inventoryservice\service\InventoryService.class
+com\programarch\inventoryservice\util\DataLoader.class
+com\programarch\inventoryservice\repository\InventoryRepository.class
+com\programarch\inventoryservice\model\Inventory.class
+com\programarch\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\programarch\inventoryservice\dto\InventoryResponse.class
+com\programarch\inventoryservice\InventoryserviceApplication.class
+com\programarch\inventoryservice\controller\InventoryController.class
